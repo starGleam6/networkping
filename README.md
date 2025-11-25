@@ -3,6 +3,43 @@
 ## 📋 项目简介
 这是一个基于Web的实时网页连通性和延迟监测工具，专门用于监测各种网站的访问延迟和连通性状态。工具采用纯前端技术实现，无需后端服务器，保护用户隐私的同时提供专业的网络监测功能。
 ## 📋 使用方法，1下载我的html文件浏览器打开即可  2访问https://yc.alonelife.top/  这个网址可能后面会不见哈哈因为我可能会换域名到时候会在这里更新的
+
+## 链接
+# PVETOOLS工具介绍
+
+## 国内使用
+```bash
+# 下载并运行安装脚本
+bash <(curl -sSL https://gitee.com/Poker-Face/pvetools/raw/master/pvetools.sh)
+```
+## 国外
+```bash
+# 下载并运行安装脚本
+wget https://raw.githubusercontent.com/xx2468171796/pvetools/main/pvetools.sh
+chmod +x pvetools.sh
+./pvetools.sh
+```
+# 🖥️ PVETools - Proxmox VE 综合管理工具
+
+<div align="center">
+
+![Version](https://img.shields.io/badge/版本-v3.2-blue)
+![PVE](https://img.shields.io/badge/PVE-7.x%20%2F%208.x%20%2F%209.x-green)
+![License](https://img.shields.io/badge/许可-MIT-orange)
+![Platform](https://img.shields.io/badge/平台-Linux-lightgrey)
+
+**一站式 Proxmox VE 运维管理脚本**
+
+集成 VM/CT 管理、Docker 配置、存储管理、硬盘直通等功能
+
+[快速开始](#-快速开始) •
+[功能介绍](#-功能模块) •
+[使用指南](USAGE.md) •
+[常见问题](#-常见问题)
+
+</div>
+
+---
 ## 2.0更新分组显示，更新批量导入导出功能，更新excel模板导入功能
 ## ✨ 主要功能特性
 ### 🔍 实时监测
